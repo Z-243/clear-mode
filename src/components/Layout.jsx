@@ -12,14 +12,12 @@ export default function Layout(props) {
     <footer>
       <p>
         Built by{" "}
-        <a href="/" target="_blank">
+        <a href="https://github.com/Z-243" target="_blank">
           Shrey
         </a>
       </p>
     </footer>
   );
-
-  //https://www,YOUR_USERNAME.netlify.app
 
   return (
     <>
