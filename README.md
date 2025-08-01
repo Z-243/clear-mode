@@ -1,4 +1,4 @@
-# Clear Mode — 30-Day Writing Challenge App
+# 🐬Clear Mode — 30-Day Writing Challenge App
 
 A clean, distraction-free, responsive web app designed to help writers build consistency and creativity through daily writing prompts — one day at a time.
 
